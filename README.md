@@ -41,14 +41,13 @@ customer-segmentation/
 
 │
 
-├── app.py 
-# Streamlit application
-├── Mall_Customers.csv 
-# Dataset
-├── clustered_customers.csv 
-# Output (generated)
-├── README.md  
-# Project documentation
+├── app.py # Streamlit application
+
+├── Mall_Customers.csv # Dataset
+
+├── clustered_customers.csv # Output (generated)
+
+├── README.md  # Project documentation
 ______________________________________________________________________________________________________________________________________________________________________________________________________
  🧠 Machine Learning Model
 
