@@ -56,18 +56,18 @@ ________________________________________________________________________________
  🔹 Steps:
 
 1. Data loading
-2. 
-3. Data preprocessing
-4. 
-5. Handling missing values
-6. 
-7. Feature scaling
-8. 
-9. Finding optimal clusters
-10. 
-11. Applying K-Means
-12. 
-13. Visualization
+  
+2. Data preprocessing
+ 
+3. Handling missing values
+ 
+4. Feature scaling
+ 
+5. Finding optimal clusters
+ 
+6. Applying K-Means
+ 
+7. Visualization
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -76,13 +76,13 @@ ________________________________________________________________________________
 The dataset contains **201 customer records** with the following features:
 
 * Customer ID
-* 
+  
 * Gender
-* 
+  
 * Age
-* 
+  
 * Annual Income (k$)
-* 
+  
 * Spending Score (1-100)
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -170,8 +170,8 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📢 Connect with Me
+🙏 Acknowledgment
 
-Feel free to connect and share your feedback!
+This project was completed as part of my Machine Learning internship, providing valuable practical experience.
 
 
